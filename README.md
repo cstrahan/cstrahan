@@ -7,13 +7,10 @@ Some areas of interest:
 - Programming language analysis/implementation
 - Distributed systems
 
-### Resume
-
-LINK
-
 ### Links
 
-- https://www.linkedin.com/in/charlesstrahan/
+- [Resume (PDF)](https://raw.githubusercontent.com/cstrahan/cstrahan/main/Charles_Strahan_Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/charlesstrahan/)
 
 
 
