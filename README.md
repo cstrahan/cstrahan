@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+I'm Charles Strahan, a software engineer based out of Dallas, TX.
+
+Some areas of interest:
+- Developer tools/enablement
+- Programming language analysis/implementation
+- Distributed systems
+
+### Resume
+
+LINK
+
+### Links
+
+- https://www.linkedin.com/in/charlesstrahan/
+
+
+
 <!--
 **cstrahan/cstrahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
