@@ -11,6 +11,7 @@ Some areas of interest:
 
 - [Resume (PDF)](https://raw.githubusercontent.com/cstrahan/cstrahan/main/Charles_Strahan_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/charlesstrahan/)
+- [Blog](https://cstrahan.com)
 
 
 
